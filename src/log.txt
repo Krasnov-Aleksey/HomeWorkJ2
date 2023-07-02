@@ -1,0 +1,6 @@
+июл. 02, 2023 6:32:58 PM Task1 writeFile
+INFO: Фаил записан
+июл. 02, 2023 6:34:43 PM Task1 readFile
+INFO: Фаил прочитан
+июл. 02, 2023 6:34:43 PM Task1 writeFile
+INFO: Фаил записан
