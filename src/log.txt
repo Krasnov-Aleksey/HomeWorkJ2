@@ -4,3 +4,11 @@ INFO: Фаил записан
 INFO: Фаил прочитан
 июл. 02, 2023 6:34:43 PM Task1 writeFile
 INFO: Фаил записан
+июл. 03, 2023 11:04:01 AM Task1 readFile
+INFO: Фаил прочитан
+июл. 03, 2023 11:04:01 AM Task1 writeFile
+INFO: Фаил записан
+июл. 04, 2023 9:57:51 AM Task1 readFile
+INFO: Фаил прочитан
+июл. 04, 2023 9:57:51 AM Task1 writeFile
+INFO: Фаил записан

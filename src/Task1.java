@@ -32,7 +32,6 @@ public class Task1 {
                 "{\"фамилия\":\"Петрова\",\"оценка\":\"4\",\"предмет\":\"Информатика\"}," +
                 "{\"фамилия\":\"Краснов\",\"оценка\":\"5\",\"предмет\":\"Физика\"}]";
 
-        //System.out.println(json);
         String path = "src/text.txt";
         String pathw = "src/textw.txt";
 
@@ -65,7 +64,6 @@ public class Task1 {
         String[] jsonArr = json.split(":"); // Массив строк по :
 
         StringBuilder stringBuilder = new StringBuilder();
-        //System.out.println(jsonArr.length);
 
         for (int i = 1; i < jsonArr.length-4; i = i + 6) {
             stringBuilder.append("Студент ");

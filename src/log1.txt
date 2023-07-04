@@ -1,0 +1,14 @@
+июл. 04, 2023 11:00:25 AM Task2 bubbleSort
+INFO: [2, 1, 6, 7, 6]
+июл. 04, 2023 11:00:25 AM Task2 bubbleSort
+INFO: [6, 1, 2, 7, 6]
+июл. 04, 2023 11:00:25 AM Task2 bubbleSort
+INFO: [7, 1, 2, 6, 6]
+июл. 04, 2023 11:00:25 AM Task2 bubbleSort
+INFO: [1, 7, 2, 6, 6]
+июл. 04, 2023 11:00:25 AM Task2 bubbleSort
+INFO: [1, 2, 7, 6, 6]
+июл. 04, 2023 11:00:25 AM Task2 bubbleSort
+INFO: [1, 2, 6, 7, 6]
+июл. 04, 2023 11:00:25 AM Task2 bubbleSort
+INFO: [1, 2, 6, 6, 7]
